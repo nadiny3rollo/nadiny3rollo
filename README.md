@@ -1,6 +1,6 @@
 ### Boas vindas ao meu perfil 🖤
 
-Meu mome é Nadiny Anezia 
+Meu nome é Nadiny Anezia 
 
 - Estou estudando na alura
 - Estou me desenvolvendo na linguagem javascript
