@@ -2,7 +2,7 @@
 
 Meu nome é Nadiny Anezia 
 
-- Estou estudando na alura
+- Estou estudando na [alura](https://www.alura.com.br)
 - Estou me desenvolvendo na linguagem javascript
 - utilizo esse espaço para minha organização e compartilhamento dos meus projetos desenvolvidos
 
