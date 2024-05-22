@@ -10,6 +10,4 @@ Meu nome é Nadiny Anezia
 
 - 00001154715358sp@al.educacao.sp.gov.br
 
-  
-
-  
+![](https://media1.tenor.com/m/XAabbheOS24AAAAC/goma-happy.gif)
